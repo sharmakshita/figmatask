@@ -1,16 +1,35 @@
-# React + Vite
+# Figmatask - Tourism Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for tourism management, allowing users to explore and interact with various tourism options.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+Check out the live project here: [[View on Render](https://your-render-link.onrender.com)](https://figmatask.onrender.com)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🏔️ Mount Abu Tourism Website
 
-## React Compiler
+A modern, interactive tourism website showcasing the beauty of Mount Abu, Rajasthan.
+The project focuses on smooth animations, clean UI, and real-time travel insights such as live weather updates — making trip planning intuitive and engaging.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Features
 
-## Expanding the ESLint configuration
+🌄 Hero Section with smooth Framer Motion animations
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📍 Top Destinations Slider with interactive cards
+
+🌦 Live Weather Insights using OpenWeather API
+
+🎨 Elegant glassmorphism UI design
+
+🧩 Modular and reusable components
+
+🛠️ Tech Stack
+
+React.js
+
+Framer Motion (animations)
+
+Axios (API calls)
+
+OpenWeather API
+
+CSS-in-JS styling
